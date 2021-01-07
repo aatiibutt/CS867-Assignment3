@@ -1,4 +1,4 @@
-#### CS867-Assignment 3: Image Classification Using Convolutional Neural Network
+## CS867-Assignment 3: Image Classification Using Convolutional Neural Network
 
 ## Pre-Requisites
 1. Anaconda (https://www.anaconda.com/products/individual)
